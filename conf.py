@@ -1,0 +1,1 @@
+IMAGEMAGICK_BINARY = r'G:\ImageMagick-7.1.1-Q16-HDRI'
